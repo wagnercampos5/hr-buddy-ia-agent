@@ -45,7 +45,7 @@ Para que o agente funcione corretamente, o banco de dados possui uma tabela cham
 
 Aqui está um exemplo do assistente respondendo dinamicamente a diferentes contextos de perguntas de RH baseando-se nos dados cadastrados:
 
-![Demonstração do Chatbot no Telegram](img/Captura de tela 2026-06-18 031645.jpg)
+![Demonstração do Chatbot no Telegram](img/Captura de tela 2026-06-18 031645.png)
 
 ---
 
